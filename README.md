@@ -1,1 +1,2 @@
-# PRAK-METKOM-3-
+#Belajar Git dan github
+## jujurly lumayan susah + agak ribet 
